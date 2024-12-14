@@ -1,7 +1,7 @@
 ## GUÍA EJERCICIOS DE LÓGICA EN JAVASCRIPT
 
 
-Esta es la directiva realizada para crear el primer ejercicio de lógica utilizando JavaScript
+Esta es la directiva realizada para crear los ejercicios de lógica utilizando JavaScript
 
 
 1. HTML
@@ -11,7 +11,7 @@ Esta es la directiva realizada para crear el primer ejercicio de lógica utiliza
 
     * Se le dio unos estilos predeterminados a cada sección (Titulo, Subtilulo y Resultado), en ellos se muestra una interfaz visual que permite un flujo de lectura de manera lineal para ver el resultado
 
-3. JavaScript
+3. JavaScript RETO 1
     * En primer paso se creo la función que permitia realizar todo el proceso de vereficación y resultado del numero para determinar si es primo o no
     * Se creo un array que almacena los numeros de resultado si el numero ingresado es primo
     * En un for se genera el metodo matematico para hacer el arreglo de numeros primos
@@ -21,6 +21,17 @@ Esta es la directiva realizada para crear el primer ejercicio de lógica utiliza
     * Se crea la variable que contiene la funcion
     * En la sección correspondientes se da el con el numero ingresado en el prompt
     * Se da el resultado de los numeros primos mediente un textContent
+
+4. JavaScript RETO 2
+    * Solicitar un numero al usuario
+    * Almacenar los datos recogidos en una variable
+    * Crear la funcion para generar la secuencia
+        * Generar un array que guarde los numeros de la secuencia y luego los muestre al usuario
+        * Si el numero dado es 0 o menor dal un alert con el mensaje de invalido y recargar la pagina
+        * Asignar los valores iniciales de la secuencia en 2 variables
+        * Generar la operacion de la secuencia
+        * En la sección correspondientes se da el con el numero ingresado en el prompt
+        * Se da el resultado de la secuencia mediente un textContent
 
 ## AUTORES
 <br> Proyecto realizado por Camilo Fetiva 2024 </br>
